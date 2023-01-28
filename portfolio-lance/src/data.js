@@ -41,5 +41,6 @@ export const projects = [
     "Ruby on Rails",
     "PostgreSQL",
     "AngularJS",
-    "React"
+    "React",
+    "Python"
   ]
